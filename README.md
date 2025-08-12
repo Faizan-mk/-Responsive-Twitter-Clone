@@ -1,8 +1,8 @@
-# Responsive Twitter Clone with Tailwind CSS
+#  Responsive Twitter Clone with Tailwind CSS
 A responsive front-end clone of Twitter/X, built using HTML, Tailwind CSS, and Google Material Icons.
 This project replicates the look and feel of Twitter’s web interface, including the sidebar, main feed, trending section, and “Who to Follow” widget.
 
-🚀 Features
+# 🚀 Features
 Fully Responsive Design — Works on mobile, tablet, and desktop screens.
 
 Tailwind CSS Styling — Clean, utility-first design approach.
@@ -13,19 +13,19 @@ Icons & Interactions — Integrated with Google Material Symbols for icons.
 
 Media Support — Image, GIF, and video post previews.
 
-📸 Screenshots
+# 📸 Screenshots
 (Add your screenshots here)
 Example:
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 HTML5 — Markup structure
 
 Tailwind CSS — Styling & responsiveness
 
 Google Material Icons — Icons and UI elements
 
-📂 Folder Structure
+# 📂 Folder Structure
 graphql
 Copy
 Edit
@@ -68,7 +68,7 @@ bash
 Copy
 Edit
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-📌 Future Improvements
+# 📌 Future Improvements
 Dark/Light theme toggle
 
 Interactive posting system (with JavaScript)
